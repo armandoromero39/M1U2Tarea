@@ -1,0 +1,4 @@
+1 mouse
+1 teclado  usb
+2 joystick ps2
+5 auriculares in-ear
